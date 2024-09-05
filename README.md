@@ -304,3 +304,30 @@
   </div>
 </details>
 
+## AWS 인프라 자원
+
+<details>
+  <summary>
+    <b>자원 구성</b>
+  </summary>
+  <div markdown="1" align="left">
+    <ul>
+      <li>ECR
+        
+  ![ECR자원캡처](https://github.com/user-attachments/assets/a832bf51-f150-4d6e-ab62-6c406f1af7f5)
+      </li>
+      <li>k8s
+        
+  ![k8s클러스터자원캡처](https://github.com/user-attachments/assets/830ea11e-39ce-4055-bfd3-918a176773bc)
+      </li>
+      <li>RDS
+        
+  ![RDS자원캡쳐](https://github.com/user-attachments/assets/41962214-848c-4cce-bf17-a0e9fd60470d)
+      </li>
+      <li>ElastiCache
+        
+  ![일라스틱캐시자원캡처](https://github.com/user-attachments/assets/15e8289c-b772-486f-9473-5ee98bbd643b)
+      </li>
+    </ul>
+  </div>
+</details>
