@@ -338,6 +338,7 @@
     <b>GIF</b>
   </summary>
   <div markdown="1" align="left">
+  
   ![전체기능훏기2](https://github.com/user-attachments/assets/776245b2-2815-4543-b20d-b8f4e0bf3615)
     
   ![url로그인](https://github.com/user-attachments/assets/c97b0f94-ab39-4a40-bfa5-e2f4b65a1413)
