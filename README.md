@@ -331,3 +331,17 @@
     </ul>
   </div>
 </details>
+
+## 배포 URL 테스트 결과 GIF
+<details>
+  <summary>
+    <b>GIF</b>
+  </summary>
+  <div markdown="1" align="left">
+  ![전체기능훏기2](https://github.com/user-attachments/assets/776245b2-2815-4543-b20d-b8f4e0bf3615)
+    
+  ![url로그인](https://github.com/user-attachments/assets/c97b0f94-ab39-4a40-bfa5-e2f4b65a1413)
+    
+  ![전체기능훏기3](https://github.com/user-attachments/assets/7951ac2d-cd5d-4f0a-9971-64be11803f4a)
+  </div>
+</details>
