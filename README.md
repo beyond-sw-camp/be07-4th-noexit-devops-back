@@ -267,3 +267,19 @@
     </ul>
   </div>
 </details>
+
+## ✨ Devops Architecture
+- 구성 스크립트
+- deploy_k8s.yml
+![deploy_noexit_k8s야뮬](https://github.com/user-attachments/assets/e7463c5a-edac-4668-ac99-94047e6f89c7)
+- certificate.yml
+![certificateyml](https://github.com/user-attachments/assets/d87d5d94-4efe-4a87-90dd-2b2d735507ca)
+- deploy_noexit.yml
+![depl1](https://github.com/user-attachments/assets/adf106e9-f4fc-4255-9764-c42292edd81f)
+![depl2](https://github.com/user-attachments/assets/3629ccb7-0e74-4a34-abe3-762d16b41fe5)
+- ingress.yml
+![인그래스yml](https://github.com/user-attachments/assets/81d931a5-0a65-4f53-8572-4e83875711b4)
+- service.yml
+![서비스yml](https://github.com/user-attachments/assets/53a5b718-be9c-4f1c-ba20-a398a9495542)
+- Dockerfile
+![도커파일](https://github.com/user-attachments/assets/e8e83182-1ce1-4e1a-a35f-da3c60d097e5)
