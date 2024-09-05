@@ -269,6 +269,26 @@
 </details>
 
 ## ✨ Devops Architecture
+
+## CI/CD 아키텍처 설계서
+<details>
+  <summary>
+    <b>백엔드 아키텍처 임시</b>
+  </summary>
+  <div markdown="1" align="left">
+    ![backend_architecture](https://github.com/user-attachments/assets/e67a6a06-394f-4f35-b134-b9792184430c)
+  </div>
+</details>
+
+<details>
+  <summary>
+    <b>프론트엔드 아키텍처 임시</b>
+  </summary>
+  <div markdown="1" align="left">
+    ![frontend_architecture](https://github.com/user-attachments/assets/d3ac833e-66fa-48e0-9edb-e6dc7f5d7657)
+  </div>
+</details>
+
 <details>
   <summary>
     <b>구성 스크립트 및 설정 파일</b>
